@@ -1,0 +1,11 @@
+go_import_path: github.com/catamat/logrotator
+
+language: go
+
+go:
+  - 1.17.x
+  - tip
+
+os:
+  - linux
+  - osx
