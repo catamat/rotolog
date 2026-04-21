@@ -9,7 +9,7 @@ Rotolog is a package for rotating logs based on the number of days or their size
 ## Installation
 
 ```bash
-go get github.com/catamat/rotolog@latest
+go install github.com/catamat/rotolog@latest
 ```
 
 ## Behavior
